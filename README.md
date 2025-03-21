@@ -4,7 +4,7 @@
 This project aims to build a machine learning model to predict circuit failure based on temperature values, voltage values, and radiation measurements of different circuit components. The model will assist in early failure detection, ensuring proactive maintenance and improved system reliability.  
 
 ## Dataset 📁  
-The dataset is provided in CSV format and contains the following columns:  
+The dataset is provided in CSV format(available in the same directory) and contains the following columns:  
 
 1. **V1 (Vaux Auxiliary Supply):** Expected value 1.8V  
 2. **V2 (Vddr3 DDR Supply):** Expected value 1.35V  
