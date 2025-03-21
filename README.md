@@ -44,7 +44,7 @@ Each of the following target task is implemented in the jupyter notebook, codes 
 - A comparison of different models was conducted.  
 
 ### 6. Hyperparameter Tuning ⚙️  
--Perform hyperparameter tuning to optimize model performance.  
+- Perform hyperparameter tuning to optimize model performance.  
 
 ### 7. Model Interpretation 🧐  
 - Provide insights into the factors affecting the model's predictions.  
